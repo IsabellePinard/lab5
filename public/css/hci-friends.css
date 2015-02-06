@@ -6,9 +6,16 @@
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
-	color: #CC00AA;
+	color: #CC0087;
 }
 
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+.friends {
+    margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 525px;
+}
+
